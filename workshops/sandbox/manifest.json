@@ -1,0 +1,21 @@
+{
+    "workshoptitle": "Autonomous Database on Shared Exadata New Features",
+    "help": "livelabs-help-db_us@oracle.com",
+    "tutorials": [
+        {
+            "title": "Introduction",
+            "description": "The Introduction is always second for LiveLabs. The title and contents menu title match for the Introduction.",
+            "filename": "../../introduction/introduction.md"
+        },
+        {
+            "title": "Lab 1: July 2022",
+            "description": "New features for July 2022",
+            "filename": "../../2022/2022-07.md"
+        },
+        {
+            "title": "Need Help?",
+            "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+            "filename":"https://oracle-livelabs.github.io/common//labs/need-help/need-help-livelabs.md"
+        }
+    ]
+}
